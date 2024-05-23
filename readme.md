@@ -65,7 +65,7 @@ Functionality:
 ### Architecture Highlights:
 
 * **Agent-Based Framework:** The system employs an LLM agent equipped with specialized tools for vector database access, outfit generation, and more. This allows for modularity and dynamic interaction between components.
-* **Intuitive User Interface:** The application boasts a user-friendly interface that makes the AI's decision-making process transparent, providing valuable insights into how vector databases and LLMs work in practice.
+* **Intuitive User Interface:** The application boasts a user-friendly interface With Gradio that makes the AI's decision-making process transparent, providing valuable insights into how vector databases and LLMs work in practice.
 
 ### Project Benefits:
 
