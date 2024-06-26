@@ -2,6 +2,7 @@
 
 Build an AI Shopping Assistant to Personalize and Maximize Online E-commerce Sales with GPT-4V, Advanced RAG, LlamaIndex, and Deep Lake. Budget, Weather & Look Optimization.
 
+https://github.com/Vishal-meena/AI-Powered-Shopping-Assistant/assets/100920691/4fed57e8-b472-4478-91ca-f63aa92f8e2e
 
 ## Project Overview
 
